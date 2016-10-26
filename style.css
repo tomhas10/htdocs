@@ -4,7 +4,8 @@ body {
 }
 
 h1 {
+  font-family: 'Cinzel Decorative', cursive;
+
     color: navy;
     margin-left: 20px;
-    font-family: font-family: 'Cinzel Decorative', cursive;
 }
